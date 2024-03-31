@@ -1,0 +1,1 @@
+from .opencc import OpenCC

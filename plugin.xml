@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>TradSimpChinese</name>
+<type>edit</type>
+<author>Jacky Chan</author>
+<description>A plugin to convert traditional and simplified Chinese text</description>
+<engine>python3.4</engine>
+<version>0.1.0</version>
+<autostart>true</autostart>
+<!-- <autoclose>true</autoclose> -->
+<oslist>osx,unx,win</oslist>
+</plugin>
